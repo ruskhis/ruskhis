@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Руслан | Привет, я Руслан
+- 👀 I’m interested in mobile dev | Мой интерес мобильная разработка приложений
+- 🌱 I’m currently learning ML | Я изучаю машинное обучение
+- 💞️ I’m looking to collaborate on with cool people | Я хочу сотрудничать с крутыми людьми 
+- 📫 How to reach me telegram: @ruskhis & email: ruslan.khissamov@meteorhr.com
